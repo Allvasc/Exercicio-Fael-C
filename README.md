@@ -1,4 +1,4 @@
-##Avaliação Discursiva 3 - Calouros
+## Avaliação Discursiva 3 - Calouros
 
 Faça um programa em linguagem C que manipule uma estrutura chamada Venda. A estrutura deve ter os campos nome do produto, quantidade, valor unitário do produto e nome do cliente.
 
